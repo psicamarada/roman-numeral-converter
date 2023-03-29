@@ -13,6 +13,4 @@ function convertToRoman(num) {
   return result;
 }
 
-// testing 
-
-convertToRoman(7);
+convertToRoman(7); //test
